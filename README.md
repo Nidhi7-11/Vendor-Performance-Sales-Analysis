@@ -1,4 +1,4 @@
-This project presents a Vendor Performance Dashboard built using Power BI,jupyter notebook for analysis,using numpy,pandas,matplotlib,
+This project presents a Vendor Performance Dashboard built using Power BI,jupyter notebook for analysis,using pandas,matplotlib,
 designed to analyze and monitor vendor efficiency, sales contribution, and overall performance metrics.
 
 
